@@ -1,29 +1,36 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samiir95.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/samiir95?style=social)
-<a href="https://www.linkedin.com/in/samir95/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/SamirOvice" target="_blank">
-	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://twitter.com/msamiir2017" target="_blank">
-<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
-</a>
+## Hi there, I'm Mohamed 👋
 
+I'm a senior quality control specialist with a passion for automation and problem-solving. My approach is structural, motivational, and customer-focused, with a strong focus on work excellence.
 
-<h2>✨ About Mohamed</h2>
+### 🚀 Skills
 
-Mohamed is a  senior quality control specialist with a structural, motivational approach, excellent communication,
-and problem-solving skills, with customer focus, and work excellence always in mind.
+- Quality Control & Assurance
+- Software Development Life Cycle
+- Test Automation
+- Agile Methodologies
+- Communication & Problem-solving
 
-He has a huge passion for automation with professional experience spanning the different stages and phases of Software Development Lifecycle. 
+### 💻 Technologies
 
-<h2>⭐ GitHub Stats</h2>
+- Java
+- Python
+- JavaScript
+- Selenium WebDriver
+- TestNG
+- Git & GitHub
 
-[![MSamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiir95&show_icons=true)](https://github.com/samiir95)
+### 🌟 Projects
 
+- **Project 1**: [Shaft Engine](https://github.com/ShaftHQ/SHAFT_ENGINE)
+- **Project 2**: [Xray_Integration](https://github.com/samiir95/Xray_Integration)
 
+### 📈 GitHub Stats
 
-<h2>🔠 Programing Langs Stats</h2>
+[![MSamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiir95&show_icons=true&theme=dark)](https://github.com/samiir95)
 
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=samiir95&layout=compact&theme=" />
+### 🔗 Connect with me
+
+- LinkedIn: [linkedin.com/in/samir95](https://www.linkedin.com/in/samir95/)
+- Twitter: [@msamiir2017](https://twitter.com/msamiir2017)
+- Facebook: [facebook.com/SamirOvice](https://www.facebook.com/SamirOvice)
+- Email: msamiir38@gmail.com
